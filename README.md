@@ -2,6 +2,11 @@
 
 This project visualizes the concept of "Topological Death" — the moment when the underlying structure of high-dimensional data is lost during projection or transformation. It is designed as an experiment to compare human cognitive prediction of structural collapse against algorithmic detection.
 
+<img src="https://github.com/otmojo/topology-death-visualizer/blob/main/Figure_1.png" alt="Image 1" width="900" />
+
+<img src="https://github.com/otmojo/topology-death-visualizer/blob/main/Figure_2.png" alt="Image 2" width="900" />
+
+
 ## Experiment Design
 
 The experiment simulates a high-dimensional ring structure undergoing deformation and projection.
